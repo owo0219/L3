@@ -16,5 +16,5 @@ int main() {
    int a,b,c;
    scanf("%d %d %d",&a,&b,&c);
    p(a,b,c);
-   printf("�̤j�Ȭ�:%d",m);
+   printf("最大值為:%d",m);
 }
